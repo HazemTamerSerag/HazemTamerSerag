@@ -16,10 +16,6 @@
 
 <br>
 
-## 🌐 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/AbdoSharaf74](https://www.facebook.com/profile.php?id=100008606946979))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/hazem-tamer-702409232)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]((https://x.com/realbrucewayna))
 
 
 
@@ -82,7 +78,7 @@
         <table border="0" align="center">
             <tr border="0">
                 <td width="50%" align="center">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdosharaf9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
+                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HazemTamerSerag&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
                     <br><br>
                     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdosharaf9&theme=tokyonight&hide_border=true"/>
                 </td>
